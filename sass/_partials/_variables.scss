@@ -1,0 +1,27 @@
+/*variables.scss*/
+
+/* Body Text Styles */
+
+$text-color: #000;
+$base-font-size: 1.4em;
+$base-font-family: "synthese", helvetica, san-serif;
+$base-font-weight: 300;
+$title-font-family: "synthese", helvetica, san-serif;
+$background-color: #FFF7EB;
+$link-color: #0028ff; //blue
+$h1-font-size: 7.8vw;
+$gradient: linear-gradient(to bottom, #FFF7EB, #fac0e1, #caa5f1, #00c6e5, #0622D6) 1 100%;
+
+
+/*Colors */
+
+$section2: linear-gradient(to bottom, #FFF7AB, #fac0e1); //pink
+$section3: linear-gradient(to bottom, #fac0e1, #caa5f1); //purple
+$section4: linear-gradient(to bottom, #caa5f1, #00c6e5); //light blue
+$section5: linear-gradient(to bottom, #00c6e5, #0622D6); //dark blue
+
+$secondary-color: #000; 
+
+
+/* Media Query Breaks */
+
