@@ -14,7 +14,7 @@
 
 <!-- Down Button -->
 <div class="section-link">
-    <a class="down-link" href="#section2">Going<br> <span><object class="linkicon down" type="image/svg+xml" data="/wp-content/uploads/2019/07/up-right-arrow.svg"></object> </span><br>Down</a>
+    <a class="down-link" href="#section2">Going<br> <span><object class="linkicon down" type="image/svg+xml" data="/wp-content/uploads/2019/08/up-right-arrow-1.svg"></object> </span><br>Down</a>
 </div>
 
 <!-- Main Content Starts Here -->
@@ -66,7 +66,7 @@
                             $link_target = $link['target'] ? $link['target'] : '_self';
                         ?>
 
-                        <div class="button"><a href="<?php echo esc_url($link_url); ?>" target="<?php echo esc_attr($link_target); ?>"><?php echo esc_html($link_title); ?><object class="linkicon" type="image/svg+xml" data="/wp-content/uploads/2019/07/up-right-arrow.svg"></object></a>  </div> 
+                        <div class="button"><a href="<?php echo esc_url($link_url); ?>" target="<?php echo esc_attr($link_target); ?>"><?php echo esc_html($link_title); ?><object class="linkicon" type="image/svg+xml" data="/wp-content/uploads/2019/08/up-right-arrow-1.svg"></object></a>  </div> 
 
                     <?php endif; ?>
 
@@ -109,7 +109,7 @@
                             ?>
                         
 
-                            <div class="button"><a href="<?php echo esc_url($link_url); ?>" target="<?php echo esc_attr($link_target); ?>"><?php echo esc_html($link_title); ?><object class="linkicon" type="image/svg+xml" data="/wp-content/uploads/2019/07/up-right-arrow.svg"></object></a></div>
+                            <div class="button"><a href="<?php echo esc_url($link_url); ?>" target="<?php echo esc_attr($link_target); ?>"><?php echo esc_html($link_title); ?><object class="linkicon" type="image/svg+xml" data="/wp-content/uploads/2019/08/up-right-arrow-1.svg"></object></a></div>
 
                         <?php endif; ?>
                     </div>
@@ -222,7 +222,7 @@
     </div>
     
     <!-- To Top Button -->
-    <div class="section-link"><a class="up-link" href="#section1">Going<br> <span><object class="linkicon up" type="image/svg+xml" data="/wp-content/uploads/2019/07/up-right-arrow.svg"></object> </span><br>Up</a></div>
+    <div class="section-link"><a class="up-link" href="#section1">Going<br> <span><object class="linkicon up" type="image/svg+xml" data="/wp-content/uploads/2019/08/up-right-arrow-1.svg"></object> </span><br>Up</a></div>
     
     <!-- Parallax Scroll Script -->
     <script>
